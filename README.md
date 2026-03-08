@@ -14,8 +14,9 @@ This website shows my skills, projects, and experience in IT support and web dev
 
 ## Projects
 1. Portfolio Website – Built using HTML and CSS.
-2. Web Development Project – Created during my development training.
-3. IT Troubleshooting – Provided hardware and software support.
+2. view my project
+3. Web Development Project – Created during my development training.
+4. IT Troubleshooting – Provided hardware and software support.
 
 ## Contact
 Email: kekanatania98@gmail.com  
