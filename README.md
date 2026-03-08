@@ -24,4 +24,4 @@ Phone: 0661502408
 ## Live Website
 View my portfolio here:
 
-https://tannie-123.github.io/tania-portfolio-project/#about
+https://tannie-123.github.io/tania-portfolio-project
